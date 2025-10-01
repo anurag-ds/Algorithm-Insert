@@ -25,7 +25,7 @@ This project dynamically reads user input, sorts the array using Bubble Sort, an
 
 ---
 ## 📸 Demo
-[Sample Output](output.png)
+![Sample Output](output.png)
 
 ## 🛠️ How It Works
 
