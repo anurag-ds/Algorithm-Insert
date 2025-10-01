@@ -24,6 +24,8 @@ This project dynamically reads user input, sorts the array using Bubble Sort, an
 - **User Experience**: Clear prompts and structured output for seamless interaction.
 
 ---
+## 📸 Demo
+[Sample Output] (output.png)
 
 ## 🛠️ How It Works
 
